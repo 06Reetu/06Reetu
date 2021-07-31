@@ -1,16 +1,33 @@
-### Hi there 👋
+### Hi there, I'm Reetu👋
 
-<!--
-**06Reetu/06Reetu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I am creative, flexible , organised and quite adaptive .!!
 
-Here are some ideas to get you started:
+* B-TECH in CSE (2019-2023) from Giet University Gunupur, Odisha.
+* Intermediate from St. Xavier's School, Doranda, Ranchi Jharkhand.
+* Schooling from St. Francis School, B. Deoghar, Jharkhand.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🎯 I’m currently learning Data Science.
+- 🤖 I’m working on the projects of ML.
+- 🎮 Hobbies: Basketball, Esports and Photography.
+
+
+
+### Connect with me:
+
+
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
+
+
+[twitter]: https://twitter.com/Reetu23403806
+[instagram]: https://www.instagram.com/_imreetumehra_/
+[linkedin]: https://www.linkedin.com/in/reetu-kumari-304788209/
+
+
+<br />
+<br />
+📧 Email : reetu0572@gmail.com
