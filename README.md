@@ -1,6 +1,6 @@
-### Hi there, I'm Reetu👋
+### Hi There, I'm Reetu👋
 
-## I am creative, flexible , organised and quite adaptive .!!
+## I am flexible , organised and quite adaptive .!!
 
 * B-TECH in CSE (2019-2023) from Giet University Gunupur, Odisha.
 * Intermediate from St. Xavier's School, Doranda, Ranchi Jharkhand.
