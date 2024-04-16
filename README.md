@@ -1,7 +1,8 @@
-Credit-Card-Fraud-Detection
-Fraud Detection model based on anonymized credit card transactions
+👋 Hi there! I'm Reetu Kumari, a passionate Graduate with a love for playing with data. I'm dedicated to leveraging technology. 
 
-It is important that credit card companies are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase.
+🚀 In my spare time, you'll find me contributing to open-source projects, or exploring the latest trends in Software. I thrive in collaborative environments and enjoy sharing knowledge with others.
+
+🌱 I'm currently focusing on getting a good job. I'm always eager to connect with like-minded individuals and explore new opportunities for growth and collaboration.
 
 
 
