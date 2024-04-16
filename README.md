@@ -1,15 +1,7 @@
-### Hi There, I'm Reetu👋
+Credit-Card-Fraud-Detection
+Fraud Detection model based on anonymized credit card transactions
 
-## I am flexible , organised and quite adaptive .!!
-
-* B-TECH in CSE (2019-2023) from Giet University Gunupur, Odisha.
-* Intermediate from St. Xavier's School, Doranda, Ranchi Jharkhand.
-* Schooling from St. Francis School, B. Deoghar, Jharkhand.
-
-
-- 🎯 I’m currently learning Data Science.
-- 🤖 I’m working on the projects of ML.
-- 🎮 Hobbies: Basketball, Esports and Photography.
+It is important that credit card companies are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase.
 
 
 
